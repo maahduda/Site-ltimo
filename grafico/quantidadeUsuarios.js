@@ -31,3 +31,4 @@ async function quantidadeUsuariosPorRede() {
 }
 
 quantidadeUsuariosPorRede()
+
