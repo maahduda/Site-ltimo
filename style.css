@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 :root {
     --bg-color: #222831;
     --primary-color: #DDDDDD;
     --secondary-color: #F05454;
-    --font: "Nunito Sans", sans-serif;
+    --font-family: "Edu AU VIC WA NT Pre", cursive;
 }
 
 body {
